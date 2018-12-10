@@ -1,0 +1,41 @@
+body {
+ 
+ background-image: url("img/IMG_9477.JPG");
+ min-height: 500px;
+ background-attachment: fixed;
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  background-color: #bf80ff;
+}
+p {
+  font-family: verdana;
+  font-size: 20px;
+  text-align: center;
+  background-color: white;
+  border-style: dotted;
+  border-color: black;
+}
+.border{
+  border-style: dotted;
+border-color: black;
+}
+.page-wrapper{
+	background-color: 
+	width:80%;
+	padding: 10%;
+}
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:  60%
+}
+a:hover{
+	background-color: #d699ff
+}
